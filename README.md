@@ -30,6 +30,12 @@
 
 
 
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
+"/>
+
+</div>
+
 
 
 
