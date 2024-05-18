@@ -83,7 +83,7 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> Google Search Console;
 
-<li> ScreamingFrog (Análise de páginas);
+<li> ScreamingFrog (Análise de páginas).
 
 
 
