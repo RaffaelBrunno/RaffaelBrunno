@@ -1,5 +1,9 @@
 # Olá! Eu sou o Raffael Brunno 🤓
 
+
+##Olá a todos!  Esse é o Raffael, o desenvolvedor web que passa mais tempo depurando do que codificando.  Mas no final, sempre há algum código legal.  Dê uma olhada no meu portfólio!
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-brunno?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
@@ -88,6 +92,9 @@ Ferramentas utilizadas na otimização de sites:
 <li> E-commerce;
 
 <li> Blog (WordPress).
+
+
+
 
 
 
