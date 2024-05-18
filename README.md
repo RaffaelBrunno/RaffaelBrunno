@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-brunno?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-## Tecnologias que eu uso no meu dia 
+## Tecnologias que eu uso no meu dia-a-dia
 
 
 <div style="display: inline_block"><br/>
@@ -34,6 +34,13 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 
 </div>
+
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
+</div>
+
 
 
 
