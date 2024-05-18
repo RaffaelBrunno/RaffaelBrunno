@@ -91,7 +91,9 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> E-commerce;
 
-<li> Blog (WordPress).
+<li> Blog (WordPress);
+
+<li> Photoshop.
 
 
 
