@@ -67,25 +67,25 @@ Ferramentas utilizadas na otimização de sites:
 
 <ul> 
 
-<li> SemRush 
+<li> SemRush;
 
-<li> Google  Adwords
+<li> Google  Adwords;
 
-<li> Ahrefs 
+<li> Ahrefs;
 
-<li> Otimização de tags
+<li> Otimização de tags;
 
-<li> Análise de mercado
+<li> Análise de mercado;
 
-<li> Marketing digital
+<li> Marketing digital;
 
-<li>Google Analytics 
+<li>Google Analytics;
 
-<li> Google Search Console
+<li> Google Search Console;
 
-<li> ScreamingFrog (Análise de páginas)
+<li> ScreamingFrog (Análise de páginas);
 
-<\ul>
+
 
 
 
