@@ -55,6 +55,16 @@
 </div>
 
 
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "/>
+
+</div>
+
+
+
+
+
+
 
 
 
