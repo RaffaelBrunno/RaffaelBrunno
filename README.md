@@ -61,11 +61,31 @@
 </div><br/>
 
 
+Além dessas tecnologias, adquirir experiência na área de SEO (pleno).
 
+Ferramentas utilizadas na otimização de sites:
 
+<ul> 
 
+<li> SemRush <\li>
 
+<li> Google  Adwords<\li>
 
+<li> Ahrefs <\li>
+
+<li> Otimização de tags<\li>
+
+<li> Análise de mercado<\li>
+
+<li> Marketing digital<\li>
+
+<li>Google Analytics <\li>
+
+<li> Google Search Console<\li>
+
+<li> ScreamingFrog (Análise de páginas)<\li>
+
+<\ul>
 
 
 
