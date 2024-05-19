@@ -99,6 +99,7 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> Link page.
 
+</ul>
 
 Em resumo, eu era responsável por analisar o site, fazer a metrificação dos resultados obtidos através da estratégia de SEO, como por exemplo: leads; posicionamento das palavras-chave; nota do site; textos estratégico para dar engajamento; alterações no layout e etc.
 
