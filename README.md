@@ -95,7 +95,9 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> Photoshop;
 
-<li> Link building.
+<li> Link building;
+
+<li> Link page.
 
 
 
