@@ -99,7 +99,9 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> Link page;
 
-<li> BackLink.
+<li> BackLink;
+
+<li> ChatGPT (criação de conteúdo).
 
 </ul>
 
