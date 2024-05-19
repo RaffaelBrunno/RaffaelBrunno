@@ -97,7 +97,9 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> Link building;
 
-<li> Link page.
+<li> Link page;
+
+<li> BackLink.
 
 </ul>
 
