@@ -93,7 +93,10 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> Blog (WordPress);
 
-<li> Photoshop.
+<li> Photoshop;
+
+<li> Link building.
+
 
 
 
