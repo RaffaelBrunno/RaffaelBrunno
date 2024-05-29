@@ -73,6 +73,8 @@ Ferramentas utilizadas na otimização de sites:
 
 <li> SemRush;
 
+<li> CSS Sass;
+
 <li> Google  Adwords;
 
 <li> Ahrefs;
